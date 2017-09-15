@@ -12,4 +12,5 @@ package modelos;
 public class modelo {
     int a;
     int b;
+    int v;
 }
