@@ -12,4 +12,5 @@ package VISTAS;
 public class UNA {
     int a;
     boolean b = true;
+    public void n(){};
 }
