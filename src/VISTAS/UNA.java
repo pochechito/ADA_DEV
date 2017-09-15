@@ -10,5 +10,5 @@ package VISTAS;
  * @author Usuario para clases
  */
 public class UNA {
-    
+    int a;
 }
