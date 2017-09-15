@@ -13,5 +13,6 @@ public class UNA {
     int a;
     boolean b = true;
     String s = "FUNCIONA";
+    boolean gg;
     public void n(){};
 }
