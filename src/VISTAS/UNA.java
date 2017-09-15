@@ -12,5 +12,6 @@ package VISTAS;
 public class UNA {
     int a;
     boolean b = true;
+    String s = "FUNCIONA";
     public void n(){};
 }
