@@ -10,5 +10,10 @@ package VISTAS;
  * @author LCT
  */
 public class DOS {
+
+    public DOS() {
+    }
     //Esta clase fue creada en el bosque popular el prado como prueba.
+    
+    
 }
