@@ -3,14 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package modelos;
+package VISTAS;
 
 /**
  *
- * @author Usuario para clases
+ * @author LCT
  */
-public class modelo {
-    int a;
-    int b;
-    int v;
+public class DOS {
+
+    public DOS() {
+    }
+    //Esta clase fue creada en el bosque popular el prado como prueba.
+    
+    
 }
